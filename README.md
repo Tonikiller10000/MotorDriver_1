@@ -3,6 +3,7 @@
 ### Description:
 An DC motor driver made with the TB6612FNG driver IC. It contains an adittional optional MT3608 voltage boost-up converter to boost the battery voltage higher for the mottors.
 If all the components are solldered, you can chose between the battery boltage and the boosted voltage by making the wanted solder bridge.
+To choose the output voltage, the board has 2 additional DNP resistor pads used for an larger reach of precise voltages.
 
 > [!CAUTION]
 > By connecting all 3 pads of the solder bridge, the input and the output of the boost-up converter are connected, witch is not recommended and may have an unexpected outcome including the IC being unusable.
