@@ -24,8 +24,8 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
   <tr>
     <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b1.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b2.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b3.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b4.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/ppp.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png" ></td>
 
   </tr>
 </table>
