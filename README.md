@@ -16,11 +16,10 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
   </tr>
 </table>
 
-
 ### Board Schematic:
 <img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/ss.png" >
 
-## Motor driver without VBC
+## The motor driver without VBC:
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b1.png" ></td>
@@ -29,8 +28,7 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
   </tr>
 </table>
 
-### Schematic (no VBC):
-<img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png" >
+Schematic (no VBC): https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png
 
 ### Links: 
 - TB6612FNG (Motor driver): https://www.alldatasheet.com/datasheet-pdf/pdf/807693/TOSHIBA/TB6612FNG.html
