@@ -1,6 +1,6 @@
-# MotorDriver_1
+# TB6612FNG MotorDriver
 
-### Description:
+## Description:
 An DC motor driver made with the TB6612FNG driver IC. It contains an adittional optional MT3608 voltage boost-up converter to boost the battery voltage higher for the mottors.
 If all the components are solldered, you can chose between the battery boltage and the boosted voltage by making the wanted solder bridge.
 To choose the output voltage, the board has 2 additional DNP resistor pads used for an larger reach of precise voltages.
@@ -17,20 +17,22 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
 </table>
 
 
-## Board Schematic:
+### Board Schematic:
 <img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/ss.png" >
 
+## Motor driver without VBC
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b1.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b2.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/ppp.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png" ></td>
-
   </tr>
 </table>
 
-## Links: 
+### Schematic (no VBC):
+<img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png" >
+
+### Links: 
 - TB6612FNG (Motor driver): https://www.alldatasheet.com/datasheet-pdf/pdf/807693/TOSHIBA/TB6612FNG.html
 - MT3608 (BoostUp voltage converter): https://pdf1.alldatasheet.com/datasheet-pdf/view/1131968/ETC1/MT3608.html
 - Driver schematic: https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/d1.jpg
