@@ -28,13 +28,11 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
   </tr>
 </table>
 
-Schematic (no VBC): https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png
-
 ### Links: 
 - TB6612FNG (Motor driver): https://www.alldatasheet.com/datasheet-pdf/pdf/807693/TOSHIBA/TB6612FNG.html
 - MT3608 (BoostUp voltage converter): https://pdf1.alldatasheet.com/datasheet-pdf/view/1131968/ETC1/MT3608.html
 - Driver schematic: https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/d1.jpg
-
+- Schematic (no VBC): https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png
 
 
 
