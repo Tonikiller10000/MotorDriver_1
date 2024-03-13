@@ -22,9 +22,9 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
 ## The motor driver without VBC:
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b1.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b2.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/ppp.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/Driver_V1.0_NoVBC/Pics/d3.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/Driver_V1.0_NoVBC/Pics/d4.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/Driver_V1.0_NoVBC/Pics/d2.png" ></td>
   </tr>
 </table>
 
