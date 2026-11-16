@@ -1,4 +1,4 @@
-# TB6612FNG MotorDriver
+# TB6612FNG MotorDriver 🟡 TESTING
 
 ## Description:
 An DC motor driver made with the TB6612FNG driver IC. It contains an adittional optional MT3608 voltage boost-up converter to boost the battery voltage higher for the mottors.
@@ -33,6 +33,9 @@ To choose the output voltage, the board has 2 additional DNP resistor pads used 
 - MT3608 (BoostUp voltage converter): https://pdf1.alldatasheet.com/datasheet-pdf/view/1131968/ETC1/MT3608.html
 - Driver schematic: https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/d1.jpg
 - Schematic (no VBC): https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/sss.png
+
+## License
+**License:** MIT — This project is licensed under the [MIT License](./LICENSE).
 
 
 
